@@ -7,7 +7,7 @@ This repository contains Python implementations of the methods and algorithms di
 The repository is divided into three main sections:
   
 
-1. **Part 1: Basics Methods in Numerical Analysis **
+1. **Part 1: Basics Methods in Numerical Analysis**
    - This part focuses on basic methods for solving functional equations that frequently appear in economic models, such as fixed point iteration, optimization, interpolation, and quadrature methods.
    
 
