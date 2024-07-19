@@ -1,16 +1,15 @@
 # Judd (1998) Python Code Repository
 
-This repository contains Python implementations of the methods and algorithms discussed in the seminal work of Kenneth L. Judd (1998). The repository is organized into three parts, mimicking the structure presented in the book.
+This repository contains Python implementations of the some frequently used methods and algorithms discussed in the seminal work of Kenneth L. Judd (1998). The repository is organized into three parts, mimicking the structure presented in the book.
 
 ## Structure
 
 The repository is divided into three main sections:
-  
+
 
 1. **Part 1: Basics Methods in Numerical Analysis**
    - This part focuses on basic methods for solving functional equations that frequently appear in economic models, such as fixed point iteration, optimization, interpolation, and quadrature methods.
    
-
 2. **Part 2: Solving Functional Equations**
    - The section focuses on numerical methods for solving functional problems, such as in an optimal control problem and shows numerical dynamic programming.
 
